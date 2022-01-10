@@ -1,0 +1,15 @@
+{
+  "name": "kntl-bot",
+  "version": "1.0.0",
+  "description": "Discord-KNTL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enrqxx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
